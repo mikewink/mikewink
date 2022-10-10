@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Go and dipping back into HTMX
 - 🤔 I’m looking for help with Shopware 6 deployment strategies and API best practices, to create an alternative UI
 - 🤯 Still trying to get into Vim and tmux
-- 😈 Learning React to write my own Raycat extensions
+- 😈 Learning React to write my own Raycast extensions
 - 📊 Playing with the Matomo API
 
 Running on: 💻 MacOS, powered by 🐘 PHPStorm, 🐹 VSCode, 🐋 Docker/DDEV, ⌨️ iTerm2, ⌨️ Raycast, ⌨️ Fig, ⌨️ OhMyZsh, 🚀 Starship, 🐛 Ray and 📧 Helo! Thank you for those amazing tools! 🏅
