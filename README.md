@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning Go and dipping back into HTMX
 - 🤔 I’m looking for help with Shopware 6 deployment strategies and API best practices, to create an alternative UI
 - 🤯 Still trying to get into Vim and tmux
+- 🤓 Learning the Yii framework, while working on my first full featured Craft CMS plugin
 - 😈 Learning React to write my own Raycast extensions
 - 📊 Playing with the Matomo API
 
