@@ -7,6 +7,7 @@
 - 🤯 Still trying to get into Vim and tmux
 - 🤓 Learning the Yii framework, while working on my first full featured Craft CMS plugin
 - 😈 Learning React to write my own Raycast extensions
+- 📘 Learning TypeScript
 - 📊 Playing with the Matomo API
 
 Running on: 💻 MacOS, powered by 🐘 PHPStorm, 🐹 VSCode, 🐋 Docker/DDEV, ⌨️ iTerm2, ⌨️ Raycast, ⌨️ Fig, ⌨️ OhMyZsh, 🚀 Starship, 🐛 Ray and 📧 Helo! Thank you for those amazing tools! 🏅
