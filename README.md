@@ -9,5 +9,6 @@
 - 😈 Learning React to write my own Raycast extensions
 - 📘 Learning TypeScript
 - 📊 Playing with the Matomo API
+- 📑 Starting with Obsidian, migrating away from Apple Notes (finally)
 
 Running on: 💻 MacOS, powered by 🐘 PHPStorm, 🐹 VSCode, 🐋 Docker/DDEV, ⌨️ iTerm2, ⌨️ Raycast, ⌨️ Fig, ⌨️ OhMyZsh, 🚀 Starship, 🐛 Ray and 📧 Helo! Thank you for those amazing tools! 🏅
