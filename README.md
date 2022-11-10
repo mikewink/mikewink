@@ -2,7 +2,6 @@
 
 - 🐳 I'm currently migrating my Valet local development to DDEV
 - 🔭 I’m currently working on an ERP system based on Laravel and Filament PHP
-- 🌱 I’m currently learning Go and dipping back into HTMX
 - 🤯 Learning about neovim and tmux
 - 🤓 Learning the Yii framework, while working on my first full featured Craft CMS plugin
 - 😈 Learning React to write my own Raycast extensions
