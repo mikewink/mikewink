@@ -3,7 +3,7 @@
 - 🐘 Waiting for the release of PHP 8.2
 - 🐳 Migrating my Valet local development to DDEV
 - 🔭 Working on an ERP system based on Laravel and Filament PHP
-- 🤯 Learning about neovim
+- 🤯 100% going to learn neovim (tmux) this winter!
 - 🤓 Learning the Yii framework, while working on my first full featured Craft CMS plugin
 - 😈 Learning React to write my own Raycast extensions
 - 💬 Learning about the Matrix.org protocol and ActivityPub and how to use them
