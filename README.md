@@ -12,6 +12,6 @@
 - 🧠 Using Obsidian as my "second brain"
 - 🤔 Curious about Rust, Lua and Nim
 
-Powered by: 💻 macOS, 🐘 PHPStorm, 🐹 VS Code, 🐋 Docker/DDEV, ⌨️ iTerm2, ⌨️ Raycast, ⌨️ OhMyZsh, 🚀 Starship, 🐛 Ray, and 📧 Helo! 
+Powered by: 💻 macOS, 🐘 PHPStorm, ⌨️ NeoVim, 🐋 Docker/DDEV, ⌨️ iTerm2, ⌨️ Raycast, ⌨️ OhMyZsh, 🚀 Starship, 🐛 Ray, and 📧 MailPit! 
 
 Thank you for those amazing tools! 🏅
