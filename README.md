@@ -10,6 +10,6 @@
 - 🧠 Using Obsidian as my "second brain" ✅
 - 🤔 Curious about Rust, started to learn it
 
-Powered by: 💻 macOS, 🐘 PHPStorm, ⌨️ NeoVim, 🐋 Docker/DDEV, ⌨️ iTerm2, ⌨️ Raycast, ⌨️ OhMyZsh, 🚀 Starship, 🐛 Ray, and 📧 MailPit! 
+Powered by: 💻 macOS, 🐘 PHPStorm, 🐋 OrbStack/DDEV, ⌨️ Warp, ⌨️ Raycast, and 📧 MailPit! 
 
 Thank you for those amazing tools! 🏅
