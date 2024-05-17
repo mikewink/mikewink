@@ -1,14 +1,13 @@
 ### Hi there, I'm Mike 👋
 
-- 🐘 Learning about the new features of PHP 8.3
-- 🐳 Migrating my Valet local development to DDEV ✅
-- 🤯 Learning neovim (tmux) for the last time!
+- 🐘 Learning about the new features in PHP
+- 🦀 Learning Rust
+- 🐳 Enjoying local development with DDEV
 - 🤓 Learning the Yii framework, while working on my first full featured Craft CMS plugin
-- 😈 Learning React to write my own Raycast extensions
-- 📘 Learning TypeScript to extend Obsidian and Raycast
-- 📊 Playing with the Matomo API
+- 📘 Learning TypeScript to extend Obsidian
+- 📊 Playing with the Pirsch Analytics API
 - 🧠 Using Obsidian as my "second brain" ✅
-- 🤔 Curious about Rust, started to learn it
+- 🤔 Curious about Zig
 
 Powered by: 💻 macOS, 🐘 PHPStorm, 🐋 OrbStack/DDEV, ⌨️ Warp, ⌨️ Raycast, and 📧 MailPit! 
 
